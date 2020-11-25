@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database name="hurah" custom="NovumRepository" crudRoot="Custom/NovumRepository"
+        crudNamespace="Crud\Custom\NovumRepository"
+        defaultIdMethod="native" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="https://novumgit.gitlab.io/innovation-app-schema-xsd/v1/schema-plus-crud.xsd" >
+
+    <external-schema filename="../../schema/core-schema-extra.xml" />
+    <external-schema filename="../../schema/core-schema.xml"/>
+    <external-schema filename="../../schema/novum-schema.xml" />
+
+
+
+
+</database>
