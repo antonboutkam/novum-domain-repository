@@ -5,7 +5,7 @@
         xsi:noNamespaceSchemaLocation="https://novumgit.gitlab.io/innovation-app-schema-xsd/v1/schema-plus-crud.xsd" >
 
     <external-schema filename="../../schema/core-schema-extra.xml" />
-    <external-schema filename="../../schema/core-schema.xml"/>
+    <external-schema filename="../../schema/schema.xml"/>
     <external-schema filename="../../schema/novum-schema.xml" />
 
 
